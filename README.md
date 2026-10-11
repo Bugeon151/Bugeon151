@@ -2,7 +2,7 @@
 
 # Bugeon Park (박부건)
 
-**AI Systems Engineer · CTO, [PJ Group](https://team-pj-lab.github.io/)**
+**Co-CEO & CTO, [PJ Group](https://team-pj-lab.github.io/) · AI Systems Engineer**
 
 Local-first AI · Agent Systems · Secure Runtimes
 
@@ -18,7 +18,7 @@ I build AI systems that run locally, can be verified, and can be safely rolled b
 I design the whole runtime where agents execute tools, check their results, and undo what goes wrong.
 
 로컬에서 동작하고, 검증할 수 있고, 안전하게 되돌릴 수 있는 AI 시스템을 만듭니다.
-[PJ Group](https://team-pj-lab.github.io/)의 CTO로 기술 방향과 시스템 설계를 맡고 있습니다.
+[PJ Group](https://team-pj-lab.github.io/)의 Co-CEO이자 CTO로 회사 운영과 기술 방향, 시스템 설계를 맡고 있습니다.
 
 ### Focus
 
