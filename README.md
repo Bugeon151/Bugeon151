@@ -1,51 +1,19 @@
-<div align="center">
+# Bugeon Park
 
-# Bugeon Park (박부건)
+Co-CEO & CTO at **[PJ Group](https://team-pj-lab.github.io/)**.
+I build AI agents that run on your own machine, check their own work, and roll back when they're wrong.
 
-**Co-CEO & CTO, [PJ Group](https://team-pj-lab.github.io/) · AI Systems Engineer**
+**Now** — Building PJ Group, a software company that designs and runs businesses on software. *From code to companies.* I lead engineering and technical direction.
 
-Local-first AI · Agent Systems · Secure Runtimes
+**Why** — Most AI products stop at the API call. The hard part is everything after it: execution, verification and safety. That's the part I work on.
 
-[**Homepage**](https://bugeon151.github.io/portfolio/) · [Instagram](https://www.instagram.com/bugeon.dev/) · [Email](mailto:bagdoeon827@gmail.com)
+**Background**
+- Competitive programmer. Baekjoon Online Judge peak rank **#67** (top 0.11%).
+- Studying AI systems, mechanical engineering and algorithms.
+- I ship with tests, benchmarks and reproducible builds by default.
 
-</div>
+**Stack** — Python · C/C++ · Java · Rust · local LLMs · agent runtimes · Flutter · PostgreSQL · Linux
 
----
+**Talk to me about** — local-first AI, agent runtimes, competitive programming, starting a company.
 
-### About
-
-I build AI systems that run locally, can be verified, and can be safely rolled back.
-I design the whole runtime where agents execute tools, check their results, and undo what goes wrong.
-
-로컬에서 동작하고, 검증할 수 있고, 안전하게 되돌릴 수 있는 AI 시스템을 만듭니다.
-[PJ Group](https://team-pj-lab.github.io/)의 Co-CEO이자 CTO로 회사 운영과 기술 방향, 시스템 설계를 맡고 있습니다.
-
-### Focus
-
-- **AI × Systems** — local models, agents, tool execution and verification as one system
-- **AI × Security** — approval-gated execution, tamper-evident audit logs, rollback
-- **Build × Verify** — unit, integration and E2E tests, benchmarks, reproducible builds
-- **Software × Infra** — self-hosted Linux, Raspberry Pi and GPU machines for local AI
-
-### Stack
-
-| | |
-|---|---|
-| **Languages** | Python · C/C++ · Java · Rust · Dart · TypeScript · Swift · Bash |
-| **AI · LLM** | Local LLM · Agent Systems · Ollama · llama.cpp · Whisper · ONNX |
-| **Vision · ML** | Semantic Segmentation · Geospatial Imagery · Model Evaluation · Quant ML |
-| **App · Backend** | Flutter · Android · iOS · PostgreSQL · SQLite · OIDC |
-| **Quality · Security** | pytest · Vitest · Playwright · CI · Audit Chains · ED25519 |
-| **Infra · Hardware** | Linux · Docker · SSH · Raspberry Pi · CUDA · Arduino |
-
-### Competitive Programming
-
-Baekjoon Online Judge — peak rank **#67** (top **0.11%**)
-
----
-
-<div align="center">
-
-**[bugeon151.github.io/portfolio](https://bugeon151.github.io/portfolio/)**
-
-</div>
+**Reach me** — bagdoeon827@gmail.com · [bugeon151.github.io/portfolio](https://bugeon151.github.io/portfolio/) · [@bugeon.dev](https://www.instagram.com/bugeon.dev/)
