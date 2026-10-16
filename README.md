@@ -16,4 +16,4 @@ I build AI agents that run on your own machine, check their own work, and roll b
 
 **Talk to me about** — local-first AI, agent runtimes, competitive programming, starting a company.
 
-**Reach me** — bagdoeon827@gmail.com · [bugeon151.github.io/portfolio](https://bugeon151.github.io/portfolio/) · [@bugeon.dev](https://www.instagram.com/bugeon.dev/)
+**Reach me** — bugeon.korea@gmail.com · [bugeon151.github.io/portfolio](https://bugeon151.github.io/portfolio/) · [@bugeon.dev](https://www.instagram.com/bugeon.dev/)
