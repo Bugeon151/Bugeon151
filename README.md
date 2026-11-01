@@ -14,7 +14,7 @@ I build AI agents that run on your own machine, check their own work, and roll b
 - Studying AI systems, mechanical engineering and algorithms.
 - I ship with tests, benchmarks and reproducible builds by default.
 
-**Languages** — Python · TypeScript · JavaScript · Java · Rust · C/C++ · Swift · SQL · HTML/CSS · Bash · PowerShell
+**Languages** — Python · TypeScript · JavaScript · Java · Rust · Go · C/C++ · Swift · SQL · HTML/CSS · Bash · PowerShell
 
 **Stack** — local LLMs · agent runtimes · Flutter · PostgreSQL · Linux
 
